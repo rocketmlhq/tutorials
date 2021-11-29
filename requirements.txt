@@ -4,8 +4,8 @@ imbalanced-learn==0.8.1
 xgboost==1.5.1
 lightgbm==3.3.1
 shap==0.40.0
-dask==2.11.0
-distributed==2.11.0
-dask-jobqueue
+dask==2021.11.2
+distributed==2021.11.2
+dask-jobqueue==0.7.3
 pypmml==0.9.12
-dvc==2.8.3
+graphviz==0.15

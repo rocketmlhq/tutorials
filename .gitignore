@@ -3,6 +3,9 @@ creditcard.csv
 *.csv
 eda_large.ipynb
 *.bz2
+slurm*
+dask-worker-space
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
