@@ -19,7 +19,7 @@ In this repository, you can find multiple Jupyter notebooks to get familiar with
 - Get an account on RocketML platform. Use the instructions provided to you during onboarding.
 - If you are not sure about how to log in, please send us an [email](mailto:rocketml@20230188.hubspot-inbox.com)
 - Build a hello world project using instructions [here](https://rocketml.gitbook.io/rocketml-user-guide/getting-started)
-- Once you are familiar with the basiscs of the platform, please do the following:
+- Once you are familiar with the basiscs of the platform, please open a terminal in Jupyter Lab and do the following:
 
 ```
 cd && cd ~/efs
