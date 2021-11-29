@@ -4,10 +4,10 @@ In this repository, you can find multiple Jupyter notebooks to get familiar with
 
 ## Contents
 
-- [Resources](resources)
-- [Getting Started](getting-started)
-- [Notebooks](notebooks)
-- [Troubleshooting](troubleshooting)
+- [Resources](#resources)
+- [Getting Started](#getting-started)
+- [Notebooks](#notebooks)
+- [Troubleshooting](#troubleshooting)
 
 ## Resources
 
